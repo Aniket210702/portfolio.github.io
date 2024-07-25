@@ -40,7 +40,7 @@ header {
 	padding-bottom:10px;
 	display:flex;
 	justify-content:space-between;
-	max-width:1500px;
+	max-width:1460px;
 	margin:auto;
 	border-bottom: 1px solid rgba(0,0,0,0.1);
 
@@ -130,7 +130,7 @@ header {
 }
 
 section {
-	max-width:1500px;
+	max-width:1460px;
 	margin:auto;
 	gap:30px;
 	margin-top:30px;
